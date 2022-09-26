@@ -28,8 +28,8 @@ Mobile Screenshot
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/amulyalovescoding/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://amulyalovescoding.github.io/NFT-preview-card-component)
+- Solution URL: [Solution](https://github.com/amulyalovescoding/NFT-preview-card-component)
+- Live Site URL: [Live](https://amulyalovescoding.github.io/NFT-preview-card-component)
 
 ## My process
 
